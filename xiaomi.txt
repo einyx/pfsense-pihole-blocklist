@@ -103,6 +103,7 @@ appwall.ad.intl.xiaomi.com
 assistant.api.xiaomi.com
 autodiscover.v.xiaomi.com
 autodiscover.xiaomi.com
+awsde0.fds.api.xiaomi.com
 b.pay.xiaomi.com
 b2capi.pay.xiaomi.com
 b2capipay.xiaomi.com
