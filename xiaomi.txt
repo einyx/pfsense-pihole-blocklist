@@ -142,6 +142,7 @@ data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 dav.xiaomi.com
+de.ott.io.mi.com
 debug.max.ad.xiaomi.com
 derora.api.xiaomi.com
 designer.xiaomi.com
