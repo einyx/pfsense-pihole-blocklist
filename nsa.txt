@@ -1,14 +1,3 @@
-#
-# License:								MIT License (MIT)
-# File encoding: 						UTF-8 Dos/Windows 1252
-# Original maintainer:					CHEF-KOCH
-# Pi-Hole Edition maintainer:			Cauchon
-# Notice:								All credit goes to the legendary CHEF KOCH!
-# Version:								0.0.01
-# Homepage: 							http://chef-koch.github.io/NSABlocklist/
-
-# Malware
-
 bgl1dr1-a-fixed.sancharnet.in
 bgl1pp1-a-fixed.sancharnet.in
 bj02.cww.com
