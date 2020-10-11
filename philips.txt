@@ -1,0 +1,5 @@
+# Philips
+0.0.0.0 deviceportal.nettvservices.com # needed for apps
+0.0.0.0 nettv.corio.com
+0.0.0.0 www.ecdinterface.philips.com # Philips Hue Bridge
+0.0.0.0 ad.nettvservices.com
