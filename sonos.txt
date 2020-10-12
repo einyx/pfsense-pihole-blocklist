@@ -1,3 +1,2 @@
 # Sonos Metrics
-0.0.0.0 msmetrics.ws.sonos.com 
-:: msmetrics.ws.sonos.com 
+msmetrics.ws.sonos.com 
