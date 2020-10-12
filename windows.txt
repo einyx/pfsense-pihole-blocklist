@@ -569,6 +569,17 @@ win10.ipv6.microsoft.com
 win10.ipv6.microsoft.com.nsatc.net
 win1710.ipv6.microsoft.com
 win8.ipv6.microsoft.com
+bbreakt88.z19.web.core.windows.net
+benching22.z19.web.core.windows.net
+cmakrkp033.z19.web.core.windows.net
+cmakrkp044.z19.web.core.windows.net
+cmakrkp66.z19.web.core.windows.net
+cmakrkp88.z19.web.core.windows.net
+thingsdoing.z19.web.core.windows.net
+touchg33.z19.web.core.windows.net
+windows-report.com
+ns1.windowsdefende.com
+ns2.windowsdefende.com
 windowsupdate.com
 windowsupdate.microsoft.com
 ws.microsoft
